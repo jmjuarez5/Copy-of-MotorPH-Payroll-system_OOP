@@ -1,0 +1,13 @@
+Employee Number,Leave Type,Start Date,End Date,Status
+1,Emergency Leave (EL),2025-01-25,2026-02-06,Pending
+1,Sick Leave (SL),2026-01-25,2026-01-31,Approved
+1,Sick Leave (SL),2026-01-25,2026-01-31,Approved
+1,Emergency Leave (EL),2026-02-26,2026-01-26,Rejected
+#,Vacation Leave (VL),-January-,-January-,Pending
+#,Vacation Leave (VL),35-January-35,35-January-35,Approved
+#,Vacation Leave (VL),35-January-35,35-January-35,Approved
+#,Sick Leave (SL),35-January-35,35-January-35,Rejected
+EMP5,Vacation Leave (VL),25-January-25,25-January-25,Rejected
+EMP5,Emergency Leave (EL),25-February-2025,25-May-2025,Approved
+EMP5,Sick Leave (SL),2026-04-08,2026-04-09,Pending
+EMP5,Vacation Leave (VL),2026-04-01,2026-04-07,Pending
